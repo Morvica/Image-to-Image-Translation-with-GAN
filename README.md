@@ -1,4 +1,4 @@
-<font size ="5"> **Winter Internship - ML Bootcamp**</font>
+<span style="font-size:20px;">Winter Internship - ML Bootcamp</span>
  
    -by K.J. Somaiya Institute of Technology in Association with Cladroid Technologies Pvt. Ltd.
 

@@ -1,4 +1,4 @@
- #****Winter Internship - ML Bootcamp****
+ #Winter Internship - ML Bootcamp
  
     -by K.J. Somaiya Institute of Technology in Association with Cladroid Technologies Pvt. Ltd.
 

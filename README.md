@@ -1,4 +1,5 @@
-**Winter Internship**
+> ****Winter Internship - ML Bootcamp****
+    -by K.J. Somaiya Institute of Technology in Association with Cladroid Technologies Pvt. Ltd.
 
 **Project Details: Image-to-Image Translation with GANs**
 
@@ -10,4 +11,6 @@
     - Train a GAN with generator-discriminator adversarial loss.
 - **Learning Outcome:** Understanding GAN architectures, image synthesis, and model evaluation.
 - **Stretch Goal:** Generate synthetic training data to boost performance in other tasks.
+
+> **Results of the model:**
   

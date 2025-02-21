@@ -1,4 +1,5 @@
-****Winter Internship************
+**Winter Internship**
+
 **Project Details: Image-to-Image Translation with GANs**
 
 **Topic: Image Style Transfer or Data Augmentation**

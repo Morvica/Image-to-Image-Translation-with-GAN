@@ -15,6 +15,7 @@
 ###**Results of the model:**
 ![image](https://github.com/user-attachments/assets/072fabb3-8b12-4955-86b1-5a3bc1e4c8f0)
 ![Screenshot 2025-02-21 204351](https://github.com/user-attachments/assets/542c24e4-c9e8-4aa9-aa01-8ce317786934)
-![Screenshot 2025-02-21 204310](https://github.com/user-attachments/assets/fea9aa7b-a0be-4a54-bd76-99c79ce92305)
+![image](https://github.com/user-attachments/assets/7977e27e-f38b-4bdb-a4de-4795737620ef)
+
 
 
